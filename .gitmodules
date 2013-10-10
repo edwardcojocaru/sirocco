@@ -18,3 +18,6 @@
 	path = cimi-client
 	url = git@github.com:ow2-sirocco/sirocco-cimi-client.git
 	branch = master
+[submodule "openstack-web-module"]
+	path = openstack-web-module
+	url = git@github.com:edwardcojocaru/sirocco-openstack-api-server.git
