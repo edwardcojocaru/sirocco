@@ -54,6 +54,7 @@
 		<module>cimi-client</module>
 		<module>dashboard-web-module</module>
 		<module>cloudmanager-business-module</module>
+        <module>openstack-web-module</module>
 		<module>sirocco-ear</module>
 	</modules>
 

@@ -193,7 +193,11 @@
 							<artifactId>sirocco-cimi-api-server-webapp</artifactId>
 							<context-root>/cimi</context-root>
 						</webModule>
-						
+						<webModule>
+                            <groupId>org.ow2.sirocco.cimi</groupId>
+                            <artifactId>sirocco-openstack-api-server-webapp</artifactId>
+                            <context-root>/openstack</context-root>
+                        </webModule>
 					</modules>
 					<archive>
 						<manifestEntries>
